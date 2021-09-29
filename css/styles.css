@@ -1,0 +1,170 @@
+		.f1 {
+			 font-family: Arial, Helvetica, sans-serif;
+		}
+		.f2 {
+			font-family: "Lucida Console", "Courier New", monospace;
+		}
+		
+		.blogp {
+			background-color: #1d3b31;
+			padding: 20px;
+		}
+		
+		.blogp:hover {
+			background-color: #1d3b31;
+			padding: 20px;
+			opacity: 0.7;
+		}
+		a {
+		color: #91a2ff;
+		text-decoration: none;
+		}
+		a:hover {
+		color: #94f4ff;
+		}
+		a:active {
+		color: blue;
+		}
+
+		.mainmenu {
+		  float: right;
+		}
+
+		.mainmenu .mbutton {
+		  padding: 14px 56px;
+		  color: white;
+		  padding: 15px 32px;
+		  text-align: center;
+		  display: inline-block;
+		  font-size: 16px;
+		  margin: 4px 2px;
+		  cursor: pointer;
+		  background-color: blue;
+		  
+		}
+
+		.mainmenu:hover .mbutton {
+		  background-color: red;
+		}
+
+		.mainmenu-item {
+		  color:white;
+		  background-color: #27032b;
+		  display: none;
+		  position: absolute;
+		  min-width: 145px;
+		  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		  z-index: 1;
+		}
+
+		.mainmenu-item a {
+		  color: white;
+		  float: none;
+		  padding: 12px 16px;
+		  display: block;
+		}
+
+		.mainmenu-item a:hover {
+		  color: white;
+		  background-color: black;
+		}
+
+		.mainmenu:hover .mainmenu-item {
+		  display: block;
+		}
+		
+		h1 {
+		  color: white;
+		}
+		
+		.block {
+		  color: white;
+		  display: inline-block;
+		  width: 400px;
+		  height: 400px;
+		  background-color:hsla(290,100%,50%,0.3);
+		}
+
+		.container {
+		  text-align: center;
+		}
+
+		.block img {
+		 width: 350px;
+		 height: 200px;
+		}
+		
+		code {
+			color: white;
+		}
+		h1 {
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		h2 {
+			color: white;
+		}
+		
+		p {
+			color: white;
+		}
+		h3 {
+			color: white;
+		}
+		
+		.fa {
+		  padding: 20px;
+		  font-size: 30px;
+		  width: 50px;
+		  text-align: center;
+		  text-decoration: none;
+		  margin: 5px 2px;
+		}
+
+		.fa:hover {
+			opacity: 0.7;
+		}
+
+		.fa-facebook {
+		  background: #0008ff;
+		  color: white;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		.fa-github {
+		  background: #202026;
+		  color: white;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		.fa-insta {
+		  background: #ff4000;
+		  color: white;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		.fa-linkedin {
+		  background: #3d8dfc;
+		  color: white;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		.fa-yt {
+		  background: #fc030b;
+		  color: white;
+		  font-family: Arial, Helvetica, sans-serif;
+		}
+		
+		th {
+			color: #00ff00;
+			text-align: center;
+			background-color: black;
+			padding: 20px;
+		}
+		td {
+			color: white;
+			text-align: center;
+			background-color: black;
+			padding: 20px;
+		}
+		
